@@ -2,7 +2,7 @@
 
 >此登入入口網站有兩個功能：註冊與登入。
 
-[![Spec](https://img.shields.io/badge/HackMD-專案說明-blue?logo=markdown)](https://hackmd.io/r9stiuf5RTKZpri67_r3hw)
+[![Spec](https://img.shields.io/badge/HackMD-專案說明-blue?logo=markdown)](https://hackmd.io/@Antony24311/B1AGfsJE-g)
 
 ## Usage
 下載專案後，進入專案目錄，在目錄底下執行以下指令：
